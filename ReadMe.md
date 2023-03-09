@@ -1,5 +1,5 @@
 # 💫 About Me:
-A cada dia mais me apaixonando por programação !<br><br>Software Developer 💻<br><br>💻 Me especializando em: JavaScript, TypeScript, Angular e React<br>💜 Sobre mim: Amo ler livros, estudar idiomas e de vez em quando jogar joguinhos<br><br>
+A cada dia mais me apaixonando por programação !<br><br>Software Developer 💻<br><br>💻 Me especializando em: JavaScript, TypeScript e React<br>💜 Sobre mim: Amo ler livros, estudar idiomas e de vez em quando jogar joguinhos<br><br>
 
 
 ## 🌐 Socials:
